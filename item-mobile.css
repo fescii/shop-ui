@@ -1,6 +1,13 @@
-.root{
-    --accent-color: rgb(6, 117, 182);
-}
+/*
+    This is the CSS For Mobile Display
+
+    Author  : Fredrick Femar Ochieng
+    Email   : isfescii@gmail.com
+    Date    : 21st Aug, 2022
+    License : MIT
+
+*/
+
 main{
     display: none;
 }
