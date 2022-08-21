@@ -29,10 +29,9 @@ h1.warning{
         display: flex;
         flex-flow: column;
         justify-items:center;
-        justify-content: space-between;
-        gap: 50px;
+        gap: 30px;
         background-color: white;
-        padding: 0% 20px;
+        padding: 0% 5%;
         height: 100%;
         position: absolute;
         top: 10px;
@@ -84,10 +83,10 @@ h1.warning{
         margin-left: 20px;
     }
     .item-image-container{
-       /* border: 1px solid blue;*/
+        border: 1px solid blue;
         position: relative;
         margin-top: 10px;
-        height: 320px;
+        height: 40%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -115,8 +114,10 @@ h1.warning{
     }
     .item-details{
         display: flex;
+        height: 43%;
         flex-flow: column;
-      /*  border: 1px solid rgb(255, 0, 200);*/
+        justify-content: space-between;
+        border: 1px solid rgb(255, 0, 200);
     }
     .item-details>.item-price{
         padding: 0%;
