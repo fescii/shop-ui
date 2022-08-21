@@ -1,2 +1,2 @@
 # shop-ui
-![Screenshot](imd/view.png)
+![Screenshot](img/view.png)
