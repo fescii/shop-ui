@@ -28,7 +28,9 @@ h1.warning{
     main{
         display: flex;
         flex-flow: column;
-        gap: 10px;
+        justify-items:center;
+        justify-content: space-between;
+        gap: 50px;
         background-color: white;
         padding: 0% 20px;
         height: 100%;
@@ -36,7 +38,7 @@ h1.warning{
         top: 10px;
         left: 0%;
         right: 0%;
-        bottom: 10px;
+        bottom: 50px;
     }
     header.mobile{
       /*  border: 1px solid blue;*/
@@ -316,13 +318,14 @@ h1.warning{
         justify-content: center;
     }
     .add-to-cart>.text{
-        width: max-content;
-        padding: 8px 30px;
+        width: 80%;
+        text-align: center;
+        padding: 10px;
         background-color: rgb(6, 117, 182);
         color: white;
         text-shadow: -0.1em 0.1em 0.1em rgb(23, 23, 24);
         box-shadow: -0.19rem 0.2rem 0.2rem rgba(133, 131, 131, 0.856);
-        font-size: 1.1rem;
+        font-size: 1.3rem;
         font-weight: 500;
         border-radius: 50px;
         -webkit-border-radius: 50px;
