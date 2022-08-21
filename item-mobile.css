@@ -83,7 +83,7 @@ h1.warning{
         margin-left: 20px;
     }
     .item-image-container{
-        border: 1px solid blue;
+     /*   border: 1px solid blue;*/
         position: relative;
         margin-top: 10px;
         height: 40%;
@@ -117,7 +117,7 @@ h1.warning{
         height: 43%;
         flex-flow: column;
         justify-content: space-between;
-        border: 1px solid rgb(255, 0, 200);
+       /* border: 1px solid rgb(255, 0, 200);*/
     }
     .item-details>.item-price{
         padding: 0%;
